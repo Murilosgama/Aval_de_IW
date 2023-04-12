@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(245, 238, 175);
+}
+
+header{
+    background-color: tan;
+    text-align: center;
+}
+
+.banner{
+    width: 100%;
+}
+
+.container{
+    background-color: tan;
+    width: 80%;
+    margin: auto;
+}
+
+footer{
+    background-color: tan;
+}
